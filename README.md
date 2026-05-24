@@ -51,8 +51,7 @@
 ---
 
 ## 📸 Скріншоти
-*(Тут ви можете додати ваші скріншоти в папку screenshots і вони підтягнуться)*
-- `![Головний екран (Light Theme)](screenshots/main_light.png)`
-- `![Головний екран (Dark Theme)](screenshots/main_dark.png)`
-- `![Фільтрація та Статистика](screenshots/stats.png)`
-- `![Діалог додавання](screenshots/dialog.png)`
+![Головний екран (Light Theme)](screenshots/main_light.png)
+![Головний екран (Dark Theme)](screenshots/main_dark.png)
+![Фільтрація та Статистика](screenshots/stats.png)
+![Діалог додавання](screenshots/dialog.png)
